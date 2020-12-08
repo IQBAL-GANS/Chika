@@ -1,5 +1,5 @@
 {
-  "name": "FERDIZ-afk",
+  "name": "Chika",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FERDIZ-afk/botvira.git"
+    "url": "git+https://github.com/IQBAL-GANS/Chika.git"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "FERDIZ-afk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FERDIZ-afk/botvira/issues"
+    "url": "https://github.com/IQBAL-GANS/Chika/issues"
   },
-  "homepage": "https://github.com/FERDIZ-afk/botvira#readme"
+  "homepage": "https://github.com/IQBAL-GANS/Chika#readme"
 }
